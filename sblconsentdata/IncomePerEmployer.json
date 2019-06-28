@@ -1,0 +1,112 @@
+[{
+  "customerNumber": "03364932687",
+  "customerName": "Averell Pressland",
+  "customerAlerts": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+  ],
+  "EmployerEarnings": [
+    {
+      "employerName": "Herzog LLC",
+      "year": 1989,
+      "monthYear": "Nov",
+      "srcName": "Source8",
+      "srcEarnings": "6385104"
+    },
+    {
+      "employerName": "Rippin-Paucek",
+      "year": 1992,
+      "monthYear": "Dec",
+      "srcName": "Source9",
+      "srcEarnings": "4616489"
+    },
+    {
+      "employerName": "Howe-Legros",
+      "year": 2002,
+      "monthYear": "Dec",
+      "srcName": "Source10",
+      "srcEarnings": "7802465"
+    },
+    {
+      "employerName": "Sipes, White and Harvey",
+      "year": 2000,
+      "monthYear": "Dec",
+      "srcName": "Source10",
+      "srcEarnings": "7950532"
+    },
+    {
+      "employerName": "Wilderman Group",
+      "year": 1986,
+      "monthYear": "Dec",
+      "srcName": "Source10",
+      "srcEarnings": "2380432"
+    },
+    {
+      "employerName": "Abshire-Krajcik",
+      "year": 2011,
+      "monthYear": "Dec",
+      "srcName": "Source10",
+      "srcEarnings": "1730390"
+    },
+    {
+      "employerName": "Harris-Beahan",
+      "year": 1994,
+      "monthYear": "Dec",
+      "srcName": "Source8",
+      "srcEarnings": "2786739"
+    },
+    {
+      "employerName": "Rau Group",
+      "year": 1993,
+      "monthYear": "Dec",
+      "srcName": "Source10",
+      "srcEarnings": "6461000"
+    },
+    {
+      "employerName": "Cummerata, Runolfsdottir and Hegmann",
+      "year": 2005,
+      "monthYear": "Nov",
+      "srcName": "Source9",
+      "srcEarnings": "5847289"
+    },
+    {
+      "employerName": "Ortiz-Rippin",
+      "year": 2012,
+      "monthYear": "Nov",
+      "srcName": "Source6",
+      "srcEarnings": "6479824"
+    },
+    {
+      "employerName": "Ebert Group",
+      "year": 1995,
+      "monthYear": "Dec",
+      "srcName": "Source10",
+      "srcEarnings": "7543333"
+    },
+    {
+      "employerName": "Bayer-Gaylord",
+      "year": 1999,
+      "monthYear": "Dec",
+      "srcName": "Source10",
+      "srcEarnings": "0520822"
+    }
+  ],
+  "calculatedIncomeTaxperMonth": "7281301",
+  "currencyCode": "KWD",
+  "consentNote": "\"The Customer has given consent to collect data from the Tax Authorities -\"",
+  "AdditionalRemark": "Webbed fingers"
+}]

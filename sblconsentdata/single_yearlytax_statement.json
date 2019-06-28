@@ -1,0 +1,108 @@
+[{
+  "customerNumber": "68380457395",
+  "customerName": "Gerta Jephcote",
+  "customerAlerts": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+  ],
+  "taxSettlementDate": "12/11/2018",
+  "currencyCode": "GBP",
+  "skjonnsfastsatt": "692507",
+  "svalbardskjonnsfastsatt": "701802",
+  "source": "Federal Tax Adminstration ",
+  "year": 1985,
+  "category": [
+    {
+      "categoryId": 1,
+      "categoryName": "",
+      "Svalbard": "494731",
+      "Grunnlag": "339145"
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "",
+      "Svalbard": "728560",
+      "Grunnlag": "005129"
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "",
+      "Svalbard": "520796",
+      "Grunnlag": "684191"
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "",
+      "Svalbard": "178885",
+      "Grunnlag": "629797"
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "",
+      "Svalbard": "713103",
+      "Grunnlag": "556001"
+    },
+    {
+      "categoryId": 6,
+      "categoryName": "",
+      "Svalbard": "471774",
+      "Grunnlag": "635442"
+    },
+    {
+      "categoryId": 7,
+      "categoryName": "",
+      "Svalbard": "519187",
+      "Grunnlag": "264851"
+    },
+    {
+      "categoryId": 8,
+      "categoryName": "",
+      "Svalbard": "094886",
+      "Grunnlag": "650138"
+    },
+    {
+      "categoryId": 9,
+      "categoryName": "",
+      "Svalbard": "019867",
+      "Grunnlag": "224168"
+    },
+    {
+      "categoryId": 10,
+      "categoryName": "",
+      "Svalbard": "194824",
+      "Grunnlag": "482280"
+    },
+    {
+      "categoryId": 11,
+      "categoryName": "",
+      "Svalbard": "091829",
+      "Grunnlag": "478469"
+    },
+    {
+      "categoryId": 12,
+      "categoryName": "",
+      "Svalbard": "169552",
+      "Grunnlag": "836560"
+    },
+    {
+      "categoryId": 13,
+      "categoryName": "",
+      "Svalbard": "745910",
+      "Grunnlag": "456007"
+    },
+    {
+      "categoryId": 14,
+      "categoryName": "",
+      "Svalbard": "524848",
+      "Grunnlag": "231232"
+    }
+  ],
+  "consentNotes": "The customer has given us consent to collect data from Tax Authorities-Date:",
+  "additionalRemarks": "Additional Remarks to be Added here"
+}]

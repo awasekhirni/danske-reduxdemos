@@ -1,0 +1,239 @@
+[{
+  "customerNumber": "19664597452",
+  "customerName": "Jeanna Body",
+  "customerAlerts": [
+    {
+    },
+    {
+    },
+    {
+    }
+  ],
+  "currencyCode": "BHD",
+  "orgName": "Dach-Schinner",
+  "orgUniqueId": "12343087",
+  "lennsinntekt": [
+    {
+      "monthYear": "Oct'19",
+      "festionn": "80327056",
+      "fast_tillegg": "48030881",
+      "helhdagstillegg": "00002016",
+      "kapitalinntekt": "43206596",
+      "feriepenger": "13168110"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "29902388",
+      "fast_tillegg": "22704077",
+      "helhdagstillegg": "84330245",
+      "kapitalinntekt": "91554000",
+      "feriepenger": "28896863"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "46206592",
+      "fast_tillegg": "02491697",
+      "helhdagstillegg": "03183446",
+      "kapitalinntekt": "23380730",
+      "feriepenger": "08894270"
+    },
+    {
+      "monthYear": "Nov'19",
+      "festionn": "82251147",
+      "fast_tillegg": "60738333",
+      "helhdagstillegg": "90047740",
+      "kapitalinntekt": "71072278",
+      "feriepenger": "78995195"
+    },
+    {
+      "monthYear": "Oct'19",
+      "festionn": "83813507",
+      "fast_tillegg": "57738664",
+      "helhdagstillegg": "51670007",
+      "kapitalinntekt": "67181015",
+      "feriepenger": "43212689"
+    },
+    {
+      "monthYear": "Oct'19",
+      "festionn": "74044196",
+      "fast_tillegg": "88132967",
+      "helhdagstillegg": "65022183",
+      "kapitalinntekt": "77815798",
+      "feriepenger": "08357128"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "62365427",
+      "fast_tillegg": "42770719",
+      "helhdagstillegg": "15883294",
+      "kapitalinntekt": "03955147",
+      "feriepenger": "20557071"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "49900836",
+      "fast_tillegg": "14882778",
+      "helhdagstillegg": "58232002",
+      "kapitalinntekt": "15114683",
+      "feriepenger": "74246462"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "01940499",
+      "fast_tillegg": "48005390",
+      "helhdagstillegg": "73700185",
+      "kapitalinntekt": "46716067",
+      "feriepenger": "34891600"
+    },
+    {
+      "monthYear": "Nov'19",
+      "festionn": "15982215",
+      "fast_tillegg": "92797794",
+      "helhdagstillegg": "40749382",
+      "kapitalinntekt": "21268798",
+      "feriepenger": "08141927"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "24527081",
+      "fast_tillegg": "43095173",
+      "helhdagstillegg": "54662503",
+      "kapitalinntekt": "44850604",
+      "feriepenger": "82646896"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "94068809",
+      "fast_tillegg": "39357801",
+      "helhdagstillegg": "00370904",
+      "kapitalinntekt": "92162452",
+      "feriepenger": "91573124"
+    }
+  ],
+  "Ytelse_fra_offentilge": [
+    {
+      "monthYear": "Apr'19",
+      "arbeidsavidaringspenger": "49334842",
+      "foreidrepenger": "54309602"
+    },
+    {
+      "monthYear": "Dec'19",
+      "arbeidsavidaringspenger": "13308692",
+      "foreidrepenger": "14477993"
+    },
+    {
+      "monthYear": "Sep'19",
+      "arbeidsavidaringspenger": "28931380",
+      "foreidrepenger": "94093178"
+    },
+    {
+      "monthYear": "Nov'19",
+      "arbeidsavidaringspenger": "28245917",
+      "foreidrepenger": "50918544"
+    },
+    {
+      "monthYear": "Dec'19",
+      "arbeidsavidaringspenger": "97733061",
+      "foreidrepenger": "43470214"
+    },
+    {
+      "monthYear": "Nov'19",
+      "arbeidsavidaringspenger": "94913357",
+      "foreidrepenger": "83802780"
+    },
+    {
+      "monthYear": "Dec'19",
+      "arbeidsavidaringspenger": "21275794",
+      "foreidrepenger": "52721114"
+    },
+    {
+      "monthYear": "Nov'19",
+      "arbeidsavidaringspenger": "25351510",
+      "foreidrepenger": "42832544"
+    },
+    {
+      "monthYear": "Oct'19",
+      "arbeidsavidaringspenger": "90561327",
+      "foreidrepenger": "48806008"
+    },
+    {
+      "monthYear": "Oct'19",
+      "arbeidsavidaringspenger": "18366296",
+      "foreidrepenger": "53021553"
+    },
+    {
+      "monthYear": "Aug'19",
+      "arbeidsavidaringspenger": "75721429",
+      "foreidrepenger": "69025337"
+    },
+    {
+      "monthYear": "Oct'19",
+      "arbeidsavidaringspenger": "08472197",
+      "foreidrepenger": "50751735"
+    }
+  ],
+  "Pensjon_eller_trygd": [
+    {
+      "monthYear": "Nov'19",
+      "Alderspensjon": "40778227",
+      "Ektefelletilleee": "13908396"
+    },
+    {
+      "monthYear": "Nov'19",
+      "Alderspensjon": "95364687",
+      "Ektefelletilleee": "06909001"
+    },
+    {
+      "monthYear": "Oct'19",
+      "Alderspensjon": "61290305",
+      "Ektefelletilleee": "31934221"
+    },
+    {
+      "monthYear": "Nov'19",
+      "Alderspensjon": "14941973",
+      "Ektefelletilleee": "43508935"
+    },
+    {
+      "monthYear": "Oct'19",
+      "Alderspensjon": "54983974",
+      "Ektefelletilleee": "05608727"
+    },
+    {
+      "monthYear": "Sep'19",
+      "Alderspensjon": "06825701",
+      "Ektefelletilleee": "04832036"
+    },
+    {
+      "monthYear": "Nov'19",
+      "Alderspensjon": "70974756",
+      "Ektefelletilleee": "78274256"
+    },
+    {
+      "monthYear": "Dec'19",
+      "Alderspensjon": "15179838",
+      "Ektefelletilleee": "98644818"
+    },
+    {
+      "monthYear": "Dec'19",
+      "Alderspensjon": "91908851",
+      "Ektefelletilleee": "27859044"
+    },
+    {
+      "monthYear": "Dec'19",
+      "Alderspensjon": "50772518",
+      "Ektefelletilleee": "84331925"
+    },
+    {
+      "monthYear": "Dec'19",
+      "Alderspensjon": "35395702",
+      "Ektefelletilleee": "57613000"
+    },
+    {
+      "monthYear": "Sep'19",
+      "Alderspensjon": "57783414",
+      "Ektefelletilleee": "77871702"
+    }
+  ],
+  "consentNotes": "The Customer has given consent to collect data from the Tax Authorities ",
+  "additionalRemarks": "Displaced fracture of proximal phalanx of right ring finger, initial encounter for closed fracture"
+}]

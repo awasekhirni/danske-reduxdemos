@@ -1,0 +1,184 @@
+[{
+  "customerNumber": "27548105610",
+  "customerName": "Ronnie Symmons",
+  "creditFacilities": [
+    {
+      "id": 1,
+      "creditLimit": "52653659",
+      "interestBearingBalance": "4709",
+      "non_interestBearingBalance": "4177",
+      "nominalInterestRate": "7",
+      "installmentCharge": "29",
+      "installmentChargePeriod": "Annual",
+      "coBorrower": "1",
+      "isDanskeBankAccount": "NO"
+    },
+    {
+      "id": 2,
+      "creditLimit": "62177071",
+      "interestBearingBalance": "4817",
+      "non_interestBearingBalance": "3642",
+      "nominalInterestRate": "9",
+      "installmentCharge": "39",
+      "installmentChargePeriod": "Quarterly",
+      "coBorrower": "8",
+      "isDanskeBankAccount": "NO"
+    },
+    {
+      "id": 3,
+      "creditLimit": "65156529",
+      "interestBearingBalance": "0347",
+      "non_interestBearingBalance": "5309",
+      "nominalInterestRate": "7",
+      "installmentCharge": "85",
+      "installmentChargePeriod": "Annual",
+      "coBorrower": "3",
+      "isDanskeBankAccount": "NO"
+    },
+    {
+      "id": 4,
+      "creditLimit": "74266502",
+      "interestBearingBalance": "8332",
+      "non_interestBearingBalance": "5513",
+      "nominalInterestRate": "1",
+      "installmentCharge": "13",
+      "installmentChargePeriod": "Annual",
+      "coBorrower": "1",
+      "isDanskeBankAccount": "NO"
+    },
+    {
+      "id": 5,
+      "creditLimit": "56461636",
+      "interestBearingBalance": "8137",
+      "non_interestBearingBalance": "0217",
+      "nominalInterestRate": "6",
+      "installmentCharge": "17",
+      "installmentChargePeriod": "Half-Yearly",
+      "coBorrower": "4",
+      "isDanskeBankAccount": "NO"
+    },
+    {
+      "id": 6,
+      "creditLimit": "24920890",
+      "interestBearingBalance": "6681",
+      "non_interestBearingBalance": "9358",
+      "nominalInterestRate": "9",
+      "installmentCharge": "59",
+      "installmentChargePeriod": "Half-Yearly",
+      "coBorrower": "7",
+      "isDanskeBankAccount": "YES "
+    },
+    {
+      "id": 7,
+      "creditLimit": "98649098",
+      "interestBearingBalance": "4216",
+      "non_interestBearingBalance": "6514",
+      "nominalInterestRate": "9",
+      "installmentCharge": "90",
+      "installmentChargePeriod": "Half-Yearly",
+      "coBorrower": "8",
+      "isDanskeBankAccount": "NO"
+    }
+  ],
+  "repaymentLoans": [
+    {
+      "id": 1,
+      "originalBalance": "423881",
+      "outstandingBalance": "0470",
+      "terms": "82",
+      "nominalInterestRate": 3.25,
+      "installmentCharge": "91",
+      "installmentChargePeriod": "Quarterly",
+      "coBorrower": "2",
+      "isDanskeBankAccount": "NO"
+    },
+    {
+      "id": 2,
+      "originalBalance": "449980",
+      "outstandingBalance": "3363",
+      "terms": "13",
+      "nominalInterestRate": 3.82,
+      "installmentCharge": "71",
+      "installmentChargePeriod": "Annual",
+      "coBorrower": "7",
+      "isDanskeBankAccount": "NO"
+    },
+    {
+      "id": 3,
+      "originalBalance": "985270",
+      "outstandingBalance": "5019",
+      "terms": "35",
+      "nominalInterestRate": 6.69,
+      "installmentCharge": "24",
+      "installmentChargePeriod": "Half-Yearly",
+      "coBorrower": "5",
+      "isDanskeBankAccount": "YES "
+    },
+    {
+      "id": 4,
+      "originalBalance": "477111",
+      "outstandingBalance": "3001",
+      "terms": "74",
+      "nominalInterestRate": 3.03,
+      "installmentCharge": "99",
+      "installmentChargePeriod": "Annual",
+      "coBorrower": "2",
+      "isDanskeBankAccount": "NO"
+    },
+    {
+      "id": 5,
+      "originalBalance": "163852",
+      "outstandingBalance": "0529",
+      "terms": "36",
+      "nominalInterestRate": 6.7,
+      "installmentCharge": "28",
+      "installmentChargePeriod": "Annual",
+      "coBorrower": "1",
+      "isDanskeBankAccount": "YES "
+    }
+  ],
+  "chargeCards": [
+    {
+      "id": 1,
+      "interestBearingBalance": "6409",
+      "non_interestBearingBalance": "804",
+      "coBorrower": "1",
+      "isDanskeBankAccount": "YES "
+    },
+    {
+      "id": 2,
+      "interestBearingBalance": "2891",
+      "non_interestBearingBalance": "365",
+      "coBorrower": "3",
+      "isDanskeBankAccount": "NO"
+    },
+    {
+      "id": 3,
+      "interestBearingBalance": "2991",
+      "non_interestBearingBalance": "131",
+      "coBorrower": "7",
+      "isDanskeBankAccount": "YES "
+    },
+    {
+      "id": 4,
+      "interestBearingBalance": "2671",
+      "non_interestBearingBalance": "988",
+      "coBorrower": "6",
+      "isDanskeBankAccount": "YES "
+    },
+    {
+      "id": 5,
+      "interestBearingBalance": "4218",
+      "non_interestBearingBalance": "648",
+      "coBorrower": "7",
+      "isDanskeBankAccount": "YES "
+    },
+    {
+      "id": 6,
+      "interestBearingBalance": "3861",
+      "non_interestBearingBalance": "199",
+      "coBorrower": "4",
+      "isDanskeBankAccount": "NO"
+    }
+  ]
+}]

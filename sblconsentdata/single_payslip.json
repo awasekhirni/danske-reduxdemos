@@ -1,0 +1,236 @@
+{
+  "customerNumber": "26867248045",
+  "customerName": "Tess Abdon",
+  "customerAlerts": [
+    {},
+    {},
+    {}
+  ],
+  "currencyCode": "BHD",
+  "orgName": "Waters-Farrell",
+  "orgUniqueId": "18492077",
+  "lennsinntekt": [
+    {
+      "monthYear": "Sep'19",
+      "festionn": "04489842",
+      "fast_tillegg": "37483623",
+      "helhdagstillegg": "10872587",
+      "kapitalinntekt": "86955292",
+      "feriepenger": "32438572"
+    },
+    {
+      "monthYear": "Oct'19",
+      "festionn": "05841575",
+      "fast_tillegg": "89111431",
+      "helhdagstillegg": "76228280",
+      "kapitalinntekt": "26928417",
+      "feriepenger": "37002176"
+    },
+    {
+      "monthYear": "June'19",
+      "festionn": "69501429",
+      "fast_tillegg": "75717848",
+      "helhdagstillegg": "10548251",
+      "kapitalinntekt": "56504522",
+      "feriepenger": "64384551"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "11829284",
+      "fast_tillegg": "94771843",
+      "helhdagstillegg": "11386004",
+      "kapitalinntekt": "33529117",
+      "feriepenger": "59060844"
+    },
+    {
+      "monthYear": "June'19",
+      "festionn": "87836574",
+      "fast_tillegg": "83178643",
+      "helhdagstillegg": "94746550",
+      "kapitalinntekt": "99601051",
+      "feriepenger": "40957867"
+    },
+    {
+      "monthYear": "Nov'19",
+      "festionn": "85804016",
+      "fast_tillegg": "88120986",
+      "helhdagstillegg": "27690225",
+      "kapitalinntekt": "66924325",
+      "feriepenger": "30713399"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "71795688",
+      "fast_tillegg": "68395443",
+      "helhdagstillegg": "47640720",
+      "kapitalinntekt": "96085376",
+      "feriepenger": "47069489"
+    },
+    {
+      "monthYear": "Oct'19",
+      "festionn": "93256189",
+      "fast_tillegg": "29938021",
+      "helhdagstillegg": "72253140",
+      "kapitalinntekt": "15601265",
+      "feriepenger": "69413376"
+    },
+    {
+      "monthYear": "Sep'19",
+      "festionn": "68848600",
+      "fast_tillegg": "65803770",
+      "helhdagstillegg": "60358913",
+      "kapitalinntekt": "30102739",
+      "feriepenger": "61678697"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "09264830",
+      "fast_tillegg": "99929210",
+      "helhdagstillegg": "64041132",
+      "kapitalinntekt": "02722004",
+      "feriepenger": "45476753"
+    },
+    {
+      "monthYear": "Dec'19",
+      "festionn": "43296799",
+      "fast_tillegg": "21521300",
+      "helhdagstillegg": "73738812",
+      "kapitalinntekt": "27888602",
+      "feriepenger": "10571154"
+    },
+    {
+      "monthYear": "Aug'19",
+      "festionn": "85740977",
+      "fast_tillegg": "16337877",
+      "helhdagstillegg": "37790712",
+      "kapitalinntekt": "32747670",
+      "feriepenger": "78431359"
+    }
+  ],
+  "Ytelse_fra_offentilge": [
+    {
+      "monthYear": "Dec'19",
+      "arbeidsavidaringspenger": "28210744",
+      "foreidrepenger": "77116857"
+    },
+    {
+      "monthYear": "Dec'19",
+      "arbeidsavidaringspenger": "30784145",
+      "foreidrepenger": "21376537"
+    },
+    {
+      "monthYear": "Dec'19",
+      "arbeidsavidaringspenger": "45256659",
+      "foreidrepenger": "09829984"
+    },
+    {
+      "monthYear": "Dec'19",
+      "arbeidsavidaringspenger": "08056711",
+      "foreidrepenger": "36878443"
+    },
+    {
+      "monthYear": "Aug'19",
+      "arbeidsavidaringspenger": "67401260",
+      "foreidrepenger": "99441094"
+    },
+    {
+      "monthYear": "Dec'19",
+      "arbeidsavidaringspenger": "39922165",
+      "foreidrepenger": "28707985"
+    },
+    {
+      "monthYear": "Oct'19",
+      "arbeidsavidaringspenger": "05584114",
+      "foreidrepenger": "50798454"
+    },
+    {
+      "monthYear": "Nov'19",
+      "arbeidsavidaringspenger": "57822035",
+      "foreidrepenger": "47893595"
+    },
+    {
+      "monthYear": "Sep'19",
+      "arbeidsavidaringspenger": "04549266",
+      "foreidrepenger": "81215682"
+    },
+    {
+      "monthYear": "Nov'19",
+      "arbeidsavidaringspenger": "90325086",
+      "foreidrepenger": "10550563"
+    },
+    {
+      "monthYear": "Dec'19",
+      "arbeidsavidaringspenger": "98226270",
+      "foreidrepenger": "08794861"
+    },
+    {
+      "monthYear": "Sep'19",
+      "arbeidsavidaringspenger": "44058323",
+      "foreidrepenger": "12369321"
+    }
+  ],
+  "Pensjon_eller_trygd": [
+    {
+      "monthYear": "Dec'19",
+      "Alderspensjon": "69242205",
+      "Ektefelletilleee": "07435332"
+    },
+    {
+      "monthYear": "Jul'19",
+      "Alderspensjon": "04295888",
+      "Ektefelletilleee": "08758463"
+    },
+    {
+      "monthYear": "Nov'19",
+      "Alderspensjon": "90101626",
+      "Ektefelletilleee": "70744351"
+    },
+    {
+      "monthYear": "Nov'19",
+      "Alderspensjon": "00969831",
+      "Ektefelletilleee": "31137319"
+    },
+    {
+      "monthYear": "Jul'19",
+      "Alderspensjon": "99359747",
+      "Ektefelletilleee": "31607405"
+    },
+    {
+      "monthYear": "Oct'19",
+      "Alderspensjon": "70377933",
+      "Ektefelletilleee": "80065074"
+    },
+    {
+      "monthYear": "Nov'19",
+      "Alderspensjon": "20273881",
+      "Ektefelletilleee": "63420815"
+    },
+    {
+      "monthYear": "Aug'19",
+      "Alderspensjon": "59459563",
+      "Ektefelletilleee": "07534436"
+    },
+    {
+      "monthYear": "Dec'19",
+      "Alderspensjon": "91382841",
+      "Ektefelletilleee": "36168796"
+    },
+    {
+      "monthYear": "Nov'19",
+      "Alderspensjon": "62715991",
+      "Ektefelletilleee": "27108741"
+    },
+    {
+      "monthYear": "Dec'19",
+      "Alderspensjon": "06911810",
+      "Ektefelletilleee": "13780883"
+    },
+    {
+      "monthYear": "Dec'19",
+      "Alderspensjon": "03143480",
+      "Ektefelletilleee": "69257379"
+    }
+  ],
+  "consentNotes": "The Customer has given consent to collect data from the Tax Authorities ",
+  "additionalRemarks": "Other incomplete lesion at T1 level of thoracic spinal cord"
+}
